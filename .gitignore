@@ -1,0 +1,4 @@
+*.jpg
+dir/
+!img.jpg
+file1
